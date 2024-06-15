@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/DorsaBeigifard/FEM-social-proof-section)
+- Solution URL: [Solution URL here](https://github.com/DorsaBeigifard/FEM-recipe-page)
 - Live Site URL: [Live site URL here](https://dorsabeigifard.github.io/FEM-social-proof-section/)
 
 ## My process
